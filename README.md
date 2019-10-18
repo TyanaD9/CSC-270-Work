@@ -4,7 +4,7 @@ A citable digital edition.
 
 Status: In Progress
 
-Bibliography
+Bibliography:
 The Evolution of Fashion, By Florence Mary Gardiner. Author of "Furnishings and Fittings for Every Home," "About Gipsies". [Illustration: SIR ROBERT BRUCE COTTON.]
 
 London: 
