@@ -13,4 +13,4 @@ THE COTTON PRESS, GRANVILLE HOUSE, ARUNDEL STREET, W.C.
 
 Plain-text, citable edition following the portocols of the CITE Architecture. 
 
-Edited 10/18/2019
+Edited, 10/18/2019
