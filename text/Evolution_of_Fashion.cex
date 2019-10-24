@@ -1,3 +1,17 @@
+
+#!cexversion
+3.0
+
+#!citelibrary
+name#AUTHOR_NAME
+urn#urn:cite2:cex:fufolio.2019a:texts
+license#CC Share Alike.  For details, see more info.
+
+#!ctscatalog
+urn#citationScheme#groupName#workTitle#versionLabel#exemplarLabel#online#lang
+urn:cts:fuTexts:GROUP.WORK.VERSION:#CITATION-SCHEME#NAME-OF-GROUP#TITLE-OF-WORK#INFO-ABOUT-VERSION##true#eng
+
+#!ctsdata
 urn:cts:fuTexts:gardiner.eof.davis:title.1#CHAPTER TITLE
 urn:cts:fuTexts:gardiner.eof.davis:title.2#The Evolution of Fashion
 urn:cts:fuTexts:gardiner.eof.davis:title.3#BY  FLORENCE MARY GARDINER
