@@ -9,7 +9,7 @@ license#CC Share Alike.  For details, see more info.
 
 #!ctscatalog
 urn#citationScheme#groupName#workTitle#versionLabel#exemplarLabel#online#lang
-urn:cts:fuTexts:GROUP.WORK.VERSION:#CITATION-SCHEME#NAME-OF-GROUP#TITLE-OF-WORK#INFO-ABOUT-VERSION##true#eng
+urn:cts:fuTexts:gardiner.eof.davis:#chapter/paragraph#Florence Mary Gardiner#Evolution of Fashion#Davis, ed. from the 1897 edition.##true#eng
 
 #!ctsdata
 urn:cts:fuTexts:gardiner.eof.davis:title.1#CHAPTER TITLE
