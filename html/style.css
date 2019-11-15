@@ -1,9 +1,9 @@
 html {
 	margin: 3em;
-	background-color: #ddd;
+	background-color: #FFF;
 	font-family: Helvetica, Ariel, sans;
-	line-height: 1.5em;
-	color: green;
+	line-height: 2.0em;
+	color: navy;
 }
 
 
@@ -16,14 +16,14 @@ a {
 
 /* :hover	 is what it will look like when you hover the mouse over an element */
 a:hover {
-	background-color: yellow;
-	border: 2px solid red ;
+	background-color: red;
+	border: 2px solid green ;
 }
 
 /* You can define any color with a 3-digit "hex-code" */
 /* The three values are from 0-F, and represent Red, Green, Blue */
 header {
-	color: #666;
+	color: #000;
 	font-size: 150%;
 }
 
@@ -44,7 +44,7 @@ div {
 	 in the HTML)
 */
 div.cts_corpus {
-	border: 4px dashed #00f;
+	border: 4px dashed #000;
 }
 
 
@@ -61,7 +61,7 @@ div.cts_corpus {
 
 .cts_corpusTitle {
 	color: blue ;
-	border: 1px dashed red;
+	border: 1px dashed black;
 }
 
 /* You can add space on any side of something with:
@@ -71,6 +71,7 @@ div.cts_corpus {
 		- margin-bottom
 
 */
+
 .cts_ref {
 	margin-right: 2em;
 	opacity: 0.5;
@@ -84,4 +85,3 @@ div.cts_corpus {
 progress.cts_progress {
 	width: 100%;
 }
-
