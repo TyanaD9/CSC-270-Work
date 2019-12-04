@@ -1,0 +1,98 @@
+<img src="images/icover.jpg" width="525" height="550" alt="" title="cover" />
+<img src="images/ititle.jpg" width="260" height="300" alt="SIR ROBERT BRUCE COTTON." title="" />
+<img src="images/ifrontis.jpg" width="600" height="416" alt="Millicent, Duchess of Sutherland. Princess Henry of
+<img src="images/i003.jpg" width="185" height="400" alt="EARLY EGYPTIAN." title="" />
+<img src="images/i004.jpg" width="122" height="450" alt="GREEK. ROMAN." title="" />
+<img src="images/i005.jpg" width="104" height="450" alt="BYZANTINE.ANGLO-SAXON." title="ANGLO-SAXON." />
+<img src="images/i006.jpg" width="165" height="400" alt="12TH CENTURY." title="" />
+<img src="images/i006b.jpg" width="219" height="400" alt="14TH CENTURY." title="" />
+<img src="images/i007.jpg" width="217" height="400" alt="16TH CENTURY. From Portrait of Mary Queen of Scots." title="" />
+<img src="images/i007b.jpg" width="260" height="400" alt="17TH CENTURY." title="" />
+<img src="images/i008.jpg" width="456" height="500" alt="19TH CENTURY. BALL DRESS, 1809." title="" />
+<img src="images/i009.jpg" width="193" height="400" alt="19TH CENTURY.&mdash;TEA DRESS, 1830." title="" />
+<img src="images/i009b.jpg" width="251" height="400" alt="19TH CENTURY.&mdash;THE POLONAISE, 1872." title="" />
+<img src="images/i010.jpg" width="245" height="400" alt="TAILOR-MADE DRESS, 1897." title="" />
+<img src="images/i010b.jpg" width="212" height="400" alt="TEA GOWN, 1897." title="" />
+<img src="images/i011.jpg" width="204" height="400" alt="AN ARTISTIC DRESS, 1897.
+<img src="images/i011b.jpg" width="168" height="400" alt="MODERN EVENING DRESS." title="" />
+<img src="images/i015.jpg" width="254" height="300" alt="ANCIENT JEWISH HEAD-DRESS." title="" />
+<img src="images/i015b.jpg" width="262" height="300" alt="EGYPTIAN HEAD-DRESS." title="" />
+<img src="images/i016.jpg" width="400" height="216" alt="ANCIENT GRECIAN." title="" />
+<img src="images/i016b.jpg" width="239" height="300" alt="ENGLISH HEAD-DRESS OF THE 13TH CENTURY." title="" />
+<img src="images/i017.jpg" width="300" height="286" alt="HORNED HEAD-DRESS OF 15TH CENTURY.
+<img src="images/i017b.jpg" width="228" height="300" alt="STEEPLE HEAD-DRESS OF 15TH CENTURY." title="" />
+<img src="images/i017c.jpg" width="181" height="300" alt="EARLY TUDOR HEAD-DRESS." title="" />
+<img src="images/i018.jpg" width="197" height="300" alt="HORNED HEAD-DRESS OF EDWARD IV.&#39;s REIGN." title="" />
+<img src="images/i018b.jpg" width="350" height="413" alt="ELIZABETHAN HEAD-DRESS." title="" />
+<img src="images/i019.jpg" width="348" height="350" alt="A BEAUTY OF THE COURT OF CHARLES II." title="" />
+<img src="images/i019b.jpg" width="278" height="350" alt="END OF 17TH CENTURY." title="" />
+<img src="images/i020.jpg" width="292" height="350" alt="FASHIONABLE COIFFURE OF AN ELDERLY LADY IN THE 18TH
+<img src="images/i020b.jpg" width="343" height="400" alt="FASHIONABLE HEAD-DRESSES IN THE TIMES OF THE GEORGES." title="" />
+<img src="images/i021.jpg" width="450" height="238" alt="" title="1830. 1855." />
+<img src="images/i021b.jpg" width="450" height="269" alt="BIRD&#39;S-NEST CHIGNON, 1872." title="" />
+<img src="images/i025.jpg" width="250" height="248" alt="GLOVE OF HENRY VI" title="" />
+<img src="images/i025b.jpg" width="248" height="250" alt="HAWKING-GLOVE OF HENRY VIII." title="" />
+<img src="images/i026.jpg" width="126" height="280" alt="GLOVE OF MARY QUEEN OF SCOTS" title="" />
+<img src="images/i026b.jpg" width="108" height="280" alt="GLOVE OF QUEEN ELIZABETH." title="" />
+<img src="images/i027.jpg" width="133" height="250" alt="GLOVE OF JAMES I." title="" />
+<img src="images/i032.jpg" width="384" height="600" alt="FOOT-GEAR OF DIFFERENT PERIODS." title="" />
+<img src="images/i033b.jpg" width="500" height="226" alt="ANGLO-SAXON AND NORMAN SHOES." title="" />
+<img src="images/i033.jpg" width="550" height="253" alt="GREEK AND ROMAN SHOES." title="" />
+<img src="images/i034.jpg" width="450" height="91" alt="QUEEN ELIZABETH&#39;S BOOTS." title="" />
+<img src="images/i034b.jpg" width="600" height="509" alt="A. CHOPINE; B, BUSKIN; C, PEAKED SHOE; D, TUDOR SHOE." title="" />
+<img src="images/i035.jpg" width="326" height="600" alt="ANCIENT SHOES&mdash;A, B, C, D, E, EGYPTIAN; F, PERSIAN; G, H,
+<img src="images/i039.jpg" width="600" height="474" alt="MARRIAGE PROCESSION OF A BRIDE IN LEBANON." title="" />
+<img src="images/i040b.jpg" width="450" height="358" alt="FESTIVITIES AT AN EASTERN MARRIAGE." title="" />
+<img src="images/i040.jpg" width="223" height="400" alt="ANCIENT EGYPTIAN BRIDAL COSTUME." title="" />
+<img src="images/i041.jpg" width="222" height="350" alt="A GREEK BRIDESMAID." title="" />
+<img src="images/i041b.jpg" width="202" height="400" alt="MODERN GREEK BRIDAL COSTUME." title="" />
+<img src="images/i042.jpg" width="550" height="150" alt="A, JEWISH WEDDING RING, GERMAN, 17TH CENTURY; B, MODERN
+<img src="images/i042b.jpg" width="172" height="400" alt="AN EASTERN BRIDE." title="" />
+<img src="images/i043.jpg" width="189" height="350" alt="GARMENT FORMERLY WORN BY GREEK BRIDES.
+<img src="images/i044.jpg" width="500" height="268" alt="HINDU BRIDEGROOM&#39;S PROCESSION." title="" />
+<img src="images/i045b.jpg" width="550" height="379" alt="HINDU MARRIAGE CEREMONY." title="" />
+<img src="images/i045.jpg" width="236" height="300" alt="VEIL OF HINDU BRIDE." title="" />
+<img src="images/i046.jpg" width="252" height="400" alt="A RUSSIAN BRIDE." title="" />
+<img src="images/i046b.jpg" width="198" height="400" alt="NORWEGIAN PEASANT BRIDE AND BRIDEGROOM." title="" />
+<img src="images/i047.jpg" width="150" height="250" alt="ORNAMENT WORN BY SWEDISH PEASANT BRIDE." title="" />
+<img src="images/i047b.jpg" width="282" height="400" alt="A BRIDEGROOM&#39;S TOILET AT FERNANDO PO." title="" />
+<img src="images/i048.jpg" width="253" height="400" alt="AN ENGLISH BRIDE." title="" />
+<img src="images/i051.jpg" width="600" height="204" alt="ANCIENT JEWISH FUNERAL PROCESSION." title="" />
+<img src="images/i051b.jpg" width="500" height="366" alt="LAYING OUT AND MOURNING THE DEAD." title="" />
+<img src="images/i052.jpg" width="450" height="100" alt="THE MODE OF ENFOLDING THE DEAD." title="" />
+<img src="images/i052b.jpg" width="600" height="222" alt="THE CUP OF CONSOLATION." title="" />
+<img src="images/i053.jpg" width="224" height="400" alt="AN ANGLO-SAXON WIDOW." title="" />
+<img src="images/i053b.jpg" width="263" height="400" alt="PRIEST OF THE 10TH CENTURY, WEARING A BLACK DALMATIC
+<img src="images/i054.jpg" width="450" height="370" alt="HIRED MOURNERS." title="" />
+<img src="images/i054b.jpg" width="450" height="370" alt="MOURNING IN SACKCLOTH" title="" />
+<img src="images/i054b2.jpg" width="249" height="350" alt="WIDOW&#39;S DRESS OF QUEEN KATHERINE DE VALOIS, IN THE YEAR
+<img src="images/i055.jpg" width="500" height="156" alt="COSTUMES WORN BY KING PHILIP II. OF SPAIN AND HIS
+<img src="images/i055b.jpg" width="232" height="400" alt="GENTLEMAN&#39;S MOURNING&mdash;TIME OF HENRY VII." title="" />
+<td align='center'><img src="images/i056.jpg" width="352" height="400"
+<td align='center'><img src="images/i056b.jpg" width="313" height="400"
+<td align='center'><img src="images/i057.jpg" width="346" height="400"
+<td align='center'><img src="images/i0572.jpg" width="204" height="400"
+<img src="images/i061.jpg" width="217" height="400" alt="BRITON CLAD IN SKINS." title="" />
+<img src="images/i061b.jpg" width="220" height="400" alt="BRITON AT THE TIME OF THE ROMAN INVASION." title="" />
+<img src="images/i062.jpg" width="256" height="400" alt="CANUTE." title="" />
+<img src="images/i062b.jpg" width="318" height="350" alt="WILLIAM THE NORMAN, FROM BAYEUX TAPESTRY." title="" />
+<img src="images/i063b.jpg" width="500" height="342" alt="PARLIAMENT ASSEMBLED IN THE REIGN OF RICHARD II." title="" />
+<img src="images/i063.jpg" width="148" height="380" alt="GENTLEMAN OF THE 14TH CENTURY." title="" />
+<img src="images/i063c.jpg" width="214" height="350" alt="A CAPUCHON OR HOOD, TIME OF EDWARD II." title="" />
+<img src="images/i064.jpg" width="500" height="440" alt="COSTUME OF THE REIGN OF HENRY VII." title="" />
+<img src="images/i065.jpg" width="235" height="400" alt="COURTIER IN THE REIGN OF ELIZABETH." title="" />
+<img src="images/i065b.jpg" width="400" height="362" alt="EARL OF SURREY, TIME OF HENRY VIII." title="" />
+<img src="images/i065c.jpg" width="229" height="400" alt="CHARLES I." title="" />
+<img src="images/i066.jpg" width="550" height="246" alt="CHARLES II. AND HIS QUEEN (1662)." title="" /></div>
+<img src="images/i066b.jpg" width="306" height="400" alt="WALKING DRESS, 1830." title="" />
+<img src="images/i071.jpg" width="378" height="400" alt="CHILDREN OF CHARLES I. (After a painting by Vandyck.)" title="" />
+<img src="images/i072.jpg" width="226" height="450" alt="CHILDREN&#39;S COSTUME, PRESENT DAY." title="" />
+<img src="images/i073.jpg" width="204" height="380" alt="" title="" />
+<img src="images/i073b.jpg" width="160" height="380" alt="" title="" />
+<img src="images/i074.jpg" width="199" height="380" alt="" title="" />
+<img src="images/i074b.jpg" width="174" height="380" alt="" title="" />
+<img src="images/i075.jpg" width="206" height="450" alt="" title="" />
+<img src="images/i081.jpg" width="222" height="400" alt="PRINCE ALBERT AS EDWARD III." title="" />
+<img src="images/i082.jpg" width="373" height="400" alt="QUEEN VICTORIA AS PHILIPPA, WIFE OF EDWARD III." title="" />
+<img src="images/i089.jpg" width="165" height="400" alt="A TURKISH MAIDEN." title="" />
+<img src="images/i090.jpg" width="190" height="380" alt="A POPPY." title="" />
