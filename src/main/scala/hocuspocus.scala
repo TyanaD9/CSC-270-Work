@@ -1,5 +1,6 @@
 package edu.furman.classics.csc270
 
+import scala.io.Source
 import better.files._
 import java.io.{File => JFile}
 import edu.holycross.shot.cite._
@@ -149,9 +150,22 @@ object hocuspocus {
 	}
 
 	def html( corp: Corpus): String = {
+
+		val imgIndex: Vector[(String, CtsUrn)] = Source.fromFile("src/resources/index.txt").getLines.toVector.map( l => {
+			(l.split("#").toVector.head, CtsUrn(l.split("#").toVector.last))
+		})
+
 		val nodeString: String = corp.nodes.map( n => {
+			val inIndex: Boolean = {
+				imgIndex.filter(_._2 == n.urn).size > 0
+			}
+			if ( inIndex == false ) {
 				val passage: String = n.urn.passageComponent
 				s"""<div class="cts_node"><span class="cts_ref">${passage}</span><span class="cts_passage">${n.text}</span></div>"""
+			} else {
+				val imgId: String = imgIndex.filter(_._2 == n.urn).head._1
+				s"""<div class="cts_node"><img src="../illustrations/images/${imgId}"/></div>"""
+			}
 		}).mkString("\n")
 		s"""<div class="cts_corpus">${nodeString}</div>"""
 	}
